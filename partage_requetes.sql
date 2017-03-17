@@ -4,7 +4,7 @@
 -- par Pascal LAMBERT, PNR Oise pays de france
 
 /* REINTRODUCTION des données d’une commune DE LA TABLE GEO_P vers LA TABLE GEO_T */
-/* changer le code insee 60589 par le bon code insee*/
+/* Changer le code insee 60589 par le bon code insee*/
 /* ****************************************** */
 
 INSERT INTO

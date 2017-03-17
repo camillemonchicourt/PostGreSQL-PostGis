@@ -3,9 +3,11 @@
 -- exemple 1 : copier une table postgis vers une autre table postgis, ici des données d’une commune identifiée par son code insee
 -- par Pascal LAMBERT, PNR Oise pays de france
 
-/* REINTRODUCTION des données d’une commune DE LA TABLE GEO_P vers LA TABLE GEO_T */
-/* Changer le code insee 60589 par le bon code insee*/
-/* ****************************************** */
+/* 
+REINTRODUCTION des données d’une commune DE LA TABLE GEO_P vers LA TABLE GEO_T 
+Changer le code insee 60589 par le bon code insee
+****************************************** 
+*/
 
 INSERT INTO
         mon_schema.ma_table_t
